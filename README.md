@@ -8,7 +8,7 @@ I'm a student and aspiring developer passionate about coding and creating.
 
 ## Current Focus
 
-🚀 I'm currently learning and working on Front-End
+🚀 I'm currently learning on Front-End-Web
 
 ## Let's Connect
 
