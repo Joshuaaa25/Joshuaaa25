@@ -12,6 +12,6 @@ I'm a student and aspiring developer passionate about coding and creating.
 
 ## Let's Connect
 
-- LinkedIn: [Joshuatmtar_](#)
+- Instagram: [@Joshuatmtar_](#)
 
 Feel free to explore my repositories and connect. Happy coding! 🌟
