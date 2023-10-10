@@ -1,16 +1,17 @@
-### Hi there 👋
+# Joshua's Repository
 
-<!--
-**Joshuaaa25/Joshuaaa25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi there! I'm Joshua, and this is my space on GitHub.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a student and aspiring developer passionate about coding and creating.
+
+## Current Focus
+
+🚀 I'm currently learning and working on Front-End
+
+## Let's Connect
+
+- LinkedIn: [Joshuatmtar_](#)
+
+Feel free to explore my repositories and connect. Happy coding! 🌟
